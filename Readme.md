@@ -11,7 +11,7 @@
 
 | Day | Date | Topic/Project | Link |
 |-----|------|----------------|------|
-| 1   | June 24 | JavaScript - Variables & Data Types | [Link](./day01/) |
+>| 1   | June 24 | JavaScript - Variables & Data Types | [Link](./day01/) |
 
 ---
 
@@ -27,4 +27,4 @@
 ## 💬 Motivation
 > "Consistency is more important than intensity. One small step each day builds a mountain of skills."
 
-Follow my journey here or reach out on [LinkedIn](#) or [Twitter](#)!
+Follow my journey here or reach out on [LinkedIn](https://www.linkedin.com/in/eloi-izabayo)!
