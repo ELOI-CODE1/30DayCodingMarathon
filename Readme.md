@@ -11,7 +11,8 @@
 
 | Day | Date | Topic/Project | Link |
 |-----|------|----------------|------|
->| 1   | June 24 | JavaScript - Variables & Data Types | [Link](./day01/) |
+>| 1   | June 24 | JavaScript - Variables & Data Types | [Link](https://github.com/ELOI-CODE1/30DayCodingMarathon/blob/main/Javascript/variables24.js)|<br>
+>| 2   | June 25 | JavaScript - Operators & Expressions | [Link](https://github.com/ELOI-CODE1/30DayCodingMarathon/blob/main/Javascript/calculateAverage_day25.js)|<br>
 
 ---
 
