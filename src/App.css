@@ -1,0 +1,47 @@
+fieldset{
+  width:320px;
+  height: 170 px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border: none;
+  background-color: rgb(49, 225, 184, 0.2);
+  margin-left: 35%;
+  margin-top: 150px;
+  border-radius: 20px;
+}
+legend{
+  font-family: sans-serif;
+  font-size: large;
+  font-weight: 20px;
+  
+}
+button{
+  background-color: cadetblue;
+  border: none;
+  width: 50px;
+  height: 30px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+}
+label{
+  font-style: inherit;
+}
+input{
+  text-align: center;
+  width: 300px;
+  height: 20px;
+  color: white;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+input:hover{
+  text-decoration: solid;
+  background-color: white;
+}
